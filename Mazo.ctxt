@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Mazo()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Mazo\r\n
+comment1.params=
+comment1.target=void\ verCartasDelMazo()
+comment1.text=\r\nmuestra\ linea\ a\ linea\ todas\ los\ nombres\ de\ las\ cartas\ existentes\ en\ el\ mazo\r\n
+comment2.params=
+comment2.target=void\ barajar()
+comment2.text=\r\nno\ devuelva\ nada\ y\ consiga\ mezclar\ las\ cartas\ existentes\ en\ ese\ momento\ en\ el\ mazo.\r\n
+comment3.params=
+comment3.target=Carta\ sacarCarta()
+comment3.text=\r\ndevuelva\ un\ objeto\ Carta.\ Concretamente\ debe\ devolver\ la\ primera\ carta\ del\ mazo,\ eliminando\ esta\ del\ mazo.\r\n
+comment4.params=
+comment4.target=int\ getNumCartas()
+comment4.text=\r\n\ retorna\ el\ n\u00BA\ de\ cartas\ que\ quedan\ en\ la\ \ baraja.\r\n
+numComments=5

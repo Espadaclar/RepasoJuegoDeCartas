@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=numJugadores\ jugadorHumano
+comment0.target=Juego(int,\ java.lang.String)
+comment0.text=\r\n\ Class\ Juego\ crea\ entre\ 3\ y\ 5\ jugadores,\ por\ defecto\ crear\u00E1\ 4\ \r\n\ -\ El\ constructor\ admita\ como\ segundo\ parametro\ el\ nombre\ del\ jugador\ humano.\ Adem\u00E1s\ debe\ mostrar\ por\ pantalla\r\n\ un\ mensaje\ de\ bienvenida\ y\ el\ nombre\ de\ cada\ uno\ de\ los\ jugadores\ de\ la\ partida\ (incluyendo\ el\ humano)\ .\r\n
+comment1.params=
+comment1.target=void\ repartir()
+comment1.text=\r\n\ reparte\ para\ cada\ jugador\ el\ n\u00BA\ de\ cartas\ se\u00F1alado\ en\ la\ constate\ CARTAS_POR_JUGADOR\:\r\n\ \r\n\ que\ coja\ el\ mazo\ y\ de\ 5\ cartas\ a\ los\ jugadores\ creados.\ La\ entrega\ de\ cartas\ debe\ ser\ al\ estilo\ del\ \r\n\ reparto\ que\ se\ hace\ en\ la\ realidad,\ es\ decir,\ primero\ se\ baraja\ y\ luego\ se\ entrega\ una\ carta\ a\ cada\ jugador.\r\n\ La\ \u00FAltima\ carta\ entregada\ indica\ el\ palo\ que\ pinta,\ que\ debe\ registrarse\ de\ alguna\ foma.\r\n\ \r\n\ El\ metodo\ repartir\ debe\ mostrar\ por\ pantalla\ el\ palo\ que\ pinta\ con\ un\ mensaje\ del\ tipo\ "Pintan\ bastos"\r\n\ o\ "Pintan\ oros"\ y\ debe\ devolver\ el\ n\u00FAmero\ asociado\ con\ el\ palo\ que\ pinta.\ Adem\u00E1s\ debe\ mostrar\ por\ pantalla\ \r\n\ las\ cartas\ que\ recibe\ el\ jugador\ humano.\ );\r\n
+comment2.params=nameJugador
+comment2.target=void\ hacerTrampasYVerCartasDeJugador(java.lang.String)
+comment2.text=\r\n\ muestra\ las\ cartas\ del\ jugador\ pasando\ su\ nombre\ en\ el\ par\u00E1metro\r\n
+comment3.params=
+comment3.target=void\ zzzVerCartasTodosLosJugadores()
+comment3.text=\r\n\ muestra\ las\ cartas\ de\ todos\ los\ jugador\ es.\r\n
+comment4.params=
+comment4.target=void\ mostrarNombreJugadores()
+comment4.text=\r\n\ muestra\ nombre\ de\ jugadores\r\n
+comment5.params=
+comment5.target=void\ darBienVenida()
+comment5.text=\r\n\ muestra\ en\ el\ constructor\ un\ mensaje\ de\ bienVendida\ junto\ con\ el\ nombre\ de\ los\ jugadores.\r\n
+numComments=6

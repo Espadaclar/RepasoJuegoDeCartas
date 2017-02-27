@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Jugador(java.lang.String)
+comment0.text=\r\n\ structor\ debe\ admitir\ el\ nombre\ del\ jugador\ como\ par\u00E1metro.\ \r\n
+comment1.params=nuevaCarta
+comment1.target=void\ recibirCarta(Carta)
+comment2.params=nameCarta
+comment2.target=Carta\ tirarCarta(java.lang.String)
+comment2.text=\r\n\ -\ Exista\ un\ nuevo\ m\u00E9todo\ que\ sea\ tirarCarta.\ Admite\ un\ par\u00E1metro\ String\ que\ indica\ el\ nombre\ de\ la\ carta\ a\ tirar.\r\n\ El\ m\u00E9todo\ muestra\ por\ pantalla\ el\ nombre\ del\ jugador\ que\ ha\ tirado\ la\ carta\ y\ la\ carta\ tirada.\ Devuelve\ la\ carta\r\n\ tirada.\ En\ caso\ de\ que\ el\ jugador\ no\ tenga\ cartas\ o\ de\ que\ el\ nombre\ especificado\ como\ par\u00E1metro\ no\ coincida\ con\r\n\ ninguna\ carta,\ devuelve\ null.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNameJugador()
+comment4.params=
+comment4.target=void\ verCartasJugador()
+comment5.params=
+comment5.target=void\ zzVerCartas()
+numComments=6
